@@ -54,4 +54,30 @@ The combination over- and under-sampling algorithm resulted in the best geometri
 
 #### 1. Balanced Random Forest Classifier Results 
 
+![](Images/randomforest.jpeg)
+
+
 #### 2. Easy Ensemble Classifier Results 
+
+![](Images/easyensemble.jpeg)
+
+### Part 2 - Final Questions
+
+#### Which model had the best balanced accuracy score? 
+
+The Random Forest Classifier Model had the best balanced accuracy score of 99.51%. 
+
+#### Which model had the best recall score? 
+
+The Easy Ensemble Classifier had the best recall score.
+
+#### Which model had the best geometric mean score? 
+
+The Random Forest Classifier Model had the better geometric mean score of 0.43.
+
+#### What are the top three features? 
+
+The top three features are:
+1. Last Payment Amount - 8.2%
+2. Total Rec Int - 7.6%
+3. Total Rec Prncip - 7.3%
