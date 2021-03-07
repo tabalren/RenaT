@@ -1,4 +1,4 @@
-## Risky Business 
+# Risky Business 
 
 ## Part 1 - Resampling Techniques 
 
