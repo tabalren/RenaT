@@ -6,13 +6,18 @@
 
 ### Simple Logistic Regression
 
+![](images/simplelog.jpeg)
+
 ### Oversampling Algorithms 
 #### Two oversampling algorithms (1. Naive Random Oversampling and 2. SMOTE Oversampling) were used to determine which algorithm results in the best performance. 
 
 #### 1. Naive Random Oversampling Results 
 
+![](images/naive.jpeg)
+
 #### 2. SMOTE Oversampling Results 
 
+![](images/smote.jpeg)
 
 ### Undersampling
 #### Now an undersampling algorithm was tested to determine which algorithm results in the best performance compared to the oversampling algorithms above. The Cluster Centroids algorithm was used. 
