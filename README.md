@@ -1,6 +1,6 @@
 ## Risky Business 
 
-### Part 1 - Resampling Techniques 
+## Part 1 - Resampling Techniques 
 
 #### The following script will use the imbalanced learn library to build and evaluate logistic regression classifiers to assess credit risk. Please refer to .ipynb files for the detailed, step-by-step code. Below will outline the high level summary of results for each model. 
 
@@ -48,7 +48,7 @@ The combination over- and under-sampling algorithm resulted in the best recall s
 The combination over- and under-sampling algorithm resulted in the best geometric mean score = 100%.
 
 
-### Part 2 - Ensemble Techniques
+## Part 2 - Ensemble Techniques
 
 #### The following code will train and compare two different ensemble classifiers (1. Balanced Random Forest Classifier and 2. Easy Ensemble Classifier) to evaluate which model is better for predicting loan risk. 
 
